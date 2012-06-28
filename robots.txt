@@ -1,0 +1,35 @@
+User-Agent: *
+Allow: /
+Disallow: /http://www.hooklure.com/mouseover.js
+Disallow: /http://www.hooklure.com/flash.txt
+Disallow: /http://www.hooklure.com/graphic_logo-header.js
+Disallow: /http://www.hooklure.com/corporatestyle.css
+Disallow: /http://www.hooklure.com/footer_faq.js
+Disallow: /http://www.hooklure.com/menu.js
+Disallow: /http://www.hooklure.com/logo.swf
+Disallow: /http://www.hooklure.com/sidebar.js
+Disallow: /http://www.hooklure.com/copyright.js
+Disallow: /http://www.hooklure.com/thanks.htm
+Disallow: /http://www.hooklure.com/javascripts.js
+Disallow: /http://www.hooklure.com/thanks-payment.htm
+Disallow: http://www.hooklure.com/pop-closeup.js
+Disallow: /http://www.hooklure.com/graphic-logo-index.html
+Disallow: /http://www.hooklure.com/header_faq.js
+Disallow: /http://www.hooklure.com/scroll.dflt.js
+Disallow: /http://www.hooklure.com/header.js
+Allow: /http://www.hooklure.com/Bass_Flies_and_Pike_Flies.htm
+Allow: /http://www.hooklure.com/Bottle_Cap_Fishing_Lures.htm
+Allow: /http://www.hooklure.com/Customer_Picture_Gallery.htm
+Allow: /http://www.hooklure.com/contact.htm
+Allow: /http://www.hooklure.com/index.htm
+Allow: /http://www.hooklure.com/Kids_and_Family_Gallery.htm
+Allow: /http://www.hooklure.com/Pike_Lures_Walleye_Lures_Musky_Lures.htm
+Allow: /http://www.hooklure.com/Salmon_Flies.htm
+Allow: /http://www.hooklure.com/sitemap.xml
+Allow: /http://www.hooklure.com/testimonials.htm
+Allow: /http://www.hooklure.com/Trout_Flies.htm
+Allow: /http://www.hooklure.com/robots.txt
+Allow: /
+Sitemap: http://www.hooklure.com/sitemap.xml
+
+

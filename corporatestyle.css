@@ -1,0 +1,233 @@
+BODY	{ SCROLLBAR-BASE-COLOR: #000000;
+	  background-image: url("picts/background.jpg");
+	  background-repeat: repeat-y;
+	  background-position: 125px 2300px;
+	  background-attachment: fixed; }
+
+
+
+a:link		{ color: #0033FF; text-decoration: none }
+
+a:visited	{ color: #0033FF; text-decoration: none }
+
+a:active	{ color: #0033FF; text-decoration: none }
+
+a:hover		{ color: #FF9900; text-decoration: none }
+
+
+
+
+ /* THIS LINE CONTROLS THE FONT SIZE ON ALL PAGES */
+
+TABLE		{ COLOR: #333333; FONT: 12px arial, verdana, sans-serif }
+
+.titlebig		{ COLOR: #000000; FONT: 30px arial, verdana, sans-serif; font-weight: bold }
+
+.titlemedium	{ COLOR: #000000; FONT: 24px arial, verdana, sans-serif; font-weight: bold }
+
+.title		{ COLOR: #000000; FONT: 18px arial, verdana, sans-serif; font-weight: bold }
+
+.titlea		{ COLOR: #000000; FONT: 18px arial, verdana, sans-serif }
+
+.note		{ COLOR: #000000; FONT: 10px arial, verdana, sans-serif }
+
+.subtitle		{ COLOR: #000000; FONT: 15px arial, verdana, sans-serif; font-weight: bold }
+
+.biglink 		{ FONT: 12px verdana, arial, sans-serif; font-weight: bold; font-style: italic; TEXT-DECORATION: none }
+
+.biglinka 		{ FONT: 16px verdana, arial, sans-serif; font-weight: bold;  TEXT-DECORATION: none }
+
+.biggestlink 	{ FONT: 18px verdana, arial, sans-serif; font-weight: bold; font-style: italic; TEXT-DECORATION: none }
+
+.biggestlinka 	{ FONT: 18px verdana, arial, sans-serif; font-weight: bold; TEXT-DECORATION: none }
+
+.biglink:hover 	{ FONT: 12px verdana, arial, sans-serif; font-weight: bold; font-style: italic; TEXT-DECORATION: underline }
+
+.just 		{ text-align: justify }
+
+.center 		{ text-align: center }
+
+.price	 	{ COLOR: #FF3300; FONT: 13px verdana, arial, sans-serif; font-weight: bold }
+
+.copyright	{ COLOR: #999999; FONT: 9px verdana, arial, sans-serif }
+
+.smalltitle 	{ COLOR: #800080; FONT: 12px verdana, arial, sans-serif; font-weight: bold }
+
+.careertitle	{ COLOR: #666666; FONT: 14px verdana, arial, sans-serif; font-weight: bold }
+
+.phonetitle	{ COLOR: #000000; FONT: 13px arial, verdana, sans-serif; font-weight: bold }
+
+.picturetitle 	{ COLOR: #000000; FONT: 14px arial, verdana, sans-serif; font-weight: bold }
+
+.picturehilight	{ COLOR: #3366FF; FONT: 13px verdana, arial, sans-serif; font-weight: bold  }
+
+.quotechoice	{ COLOR: #000099; FONT: 11px verdana, arial, sans-serif; font-weight: normal }
+
+.list 		{ COLOR: #000000; FONT: 12px verdana, arial, sans-serif; font-weight: normal }
+
+.sidebartitle	{ COLOR: #000000; FONT: 13px verdana, arial, sans-serif; font-weight: bold }
+
+.sidebartext	{ COLOR: #000000; FONT: 11px verdana, arial, sans-serif }
+
+.faq 		{ line-height: 19px }
+
+#ZOOM 		{ LEFT: 10px; POSITION: absolute; TOP: 10px }
+
+
+
+
+ /* HIDE MENU AND ITEMS FOR PRINTING */
+
+
+@media print {
+.printhide 	{ display:none; }
+.printhelp	{ width:600px; }
+}
+@media screen{
+.printonly 	{ display:none; }
+}
+
+
+
+
+
+
+
+.button-popups { 	background-image: url("picts/button-popup.gif");
+		background-color:#0000FF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #FFFFFF;
+		font-size: 8pt;
+		height: 23px;
+		width: 100%;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		padding-left: 2px;
+		padding-right: 2px;
+		BORDER: #FFFFFF 0px solid }
+
+.buttonon-popups { 	background-image: url("picts/buttonon-popup.gif");
+		background-color:#FFFFFF;
+		FONT-FAMILY: arial, verdana, helvetica, sans;
+		color: #000000;
+		font-size: 8pt;
+		height: 23px;
+		width: 100%;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		padding-left: 2px;
+		padding-right: 2px;
+		BORDER: #FFFFFF 0px solid }
+
+
+.shadeform	{ FONT: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		filter:alpha(opacity=65);-moz-opacity:.65;opacity:.65;
+		text-align: left;
+		WIDTH: 300PX;
+		BORDER: #000000 1px solid}
+
+
+.dropdown 	{ COLOR: #333333;
+		WIDTH: 300PX;
+		FONT: 11px verdana, arial, sans-serif}
+
+
+.textarea	{ FONT: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		filter:alpha(opacity=65);-moz-opacity:.65;opacity:.65;
+		text-align: left;
+		WIDTH: 300PX;
+		BORDER: #000000 1px solid}
+
+.submitbutton { FONT: 9pt arial, verdana, sans-serif }
+
+.quoteform	{ FONT: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		filter:alpha(opacity=65);-moz-opacity:.65;opacity:.65;
+		text-align: left;
+		BORDER: #000000 1px solid}
+
+.quotedropdown 	{ COLOR: #333333;
+		WIDTH: 260PX;
+		FONT: 11px verdana, arial, sans-serif}
+
+
+.searchform { 	WIDTH: 108PX;
+		HEIGHT: 20PX;
+		FONT: 11px arial, georgia, "Times New Roman", sans-serif;
+		BORDER: #999999 1px solid }
+
+
+.searchdrop { WIDTH: 60PX; HEIGHT: 20PX; FONT: 11px arial, georgia, "Times New Roman", sans-serif }
+
+
+.searchbutton {	background-color:#0000FF;
+		FONT-FAMILY: verdana, arial, helvetica, sans;
+		color: #FFFFFF;
+		font-size: 8pt;
+		height: 20px;
+		width: 32px;
+		cursor:hand;
+		font-weight: bold;
+		text-align: center;
+		BORDER: #999999 1px solid }
+
+
+
+ /* IMAGE HOVER CODE */
+
+
+.rollover		{ LEFT: 0px; position: relative; top: 0px; border: #000000 1px solid; margin-bottom: 3px; }
+
+.rolloveron		{ LEFT: 2px; position: relative; top: 2px; border: #0000FF 1px solid; margin-bottom: 3px; }
+
+
+
+ /* START THE CODE FOR THE MENUS */
+
+
+ /* TOP LEVEL MENU CONTROL */
+
+
+a.menu_TOP{
+display:block;
+line-height: 14pt;
+text-align: center;
+text-decoration:none;
+border-right: #7D7DFF 1px solid;
+}
+
+
+
+ /* SUB LEVEL MENU CONTROL */
+
+
+a.menu_SUB{
+display:block;
+padding: 2px 2px 2px 4px;
+text-decoration:none;
+filter:alpha(opacity=100);
+border-bottom: #000000 1px solid;
+}
+
+
+ /* MORE SUB LEVEL MENU CONTROL */
+
+
+.menu_DIV{
+border-top: #000000 1px solid;
+border-bottom: #000000 0px solid;
+border-right: #000000 1px solid;
+border-left: #000000 1px solid;
+filter:alpha(opacity=100);
+z-index:100;
+}
+
+

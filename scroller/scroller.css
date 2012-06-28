@@ -1,0 +1,34 @@
+
+/* scroller background: iframe BODY object */
+
+.Back {
+	background: #0000FF;
+	background-image: url(background-scroller.jpg);
+	margin: 0;
+}
+
+
+/* style to be applyed to all items' bodies - DIV
+
+	all local stylesheets of external files if any are to be ignored */
+
+.ItemBody {
+	font-family: Verdana;
+	font-size: 11px;
+	padding: 6px;
+}
+
+.text 	{ color: #FFFFFF; font-family: Tahoma, Verdana; font-size: 11px; font-weight: normal; }
+
+
+.title 	{ color: #FFFFFF; font-family: Tahoma, Verdana; font-size: 12px; font-weight: bold; }
+
+
+a:link		{ color: #FFFF9C; text-decoration: none }
+
+a:visited	{ color: #FFFF9C; text-decoration: none }
+
+a:active	{ color: #FFFF9C; text-decoration: none }
+
+a:hover		{ color: #CCFF33; text-decoration: none }
+

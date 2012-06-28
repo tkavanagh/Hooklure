@@ -1,0 +1,16 @@
+logo=Fishing
+&backgroundletters= Hooklure
+&line1= Catching fish, Creating hooks or building lures?
+&line2= We have some amazing solutions?
+&line3= Take a Hook !
+&introline=Welcome to...
+&introenter= Enter >
+&introskip= Skip Intro >
+&textline1=Trout Flies
+&textline2=Pike, Musky, Walleye Lures
+&textline3=Salmon Flies
+&textline4=Bass and Pike Flies
+&textline5=Walleye Lures
+&textline6=Pike Lures
+&urlintro=home.htm
+&url=home.htm

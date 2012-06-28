@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.hooklure.com/</loc>
+  <priority>1.0</priority>
+  <lastmod>2008-04-16T08:58:47+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/index.htm</loc>
+  <priority>1.0</priority>
+  <lastmod>2008-04-16T08:58:47+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/about.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-04-16T08:57:52+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/testimonials.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-04-16T09:00:08+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/privacy.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-04-16T08:59:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Trout_Flies.htm</loc>
+  <priority>0.9</priority>
+  <lastmod>2008-04-16T09:00:18+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Bass_Flies_and_Pike_Flies.htm</loc>
+  <priority>0.9</priority>
+  <lastmod>2008-04-16T08:57:56+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Pike_Lures_Walleye_Lures_Musky_Lures.htm</loc>
+  <priority>0.9</priority>
+  <lastmod>2008-04-16T08:59:18+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Salmon_Flies.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-04-16T08:59:34+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Bottle_Cap_Fishing_Lures.htm</loc>
+  <priority>0.9</priority>
+  <lastmod>2008-04-16T08:58:00+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Customer_Picture_Gallery.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2008-04-16T08:58:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/Kids_and_Family_Gallery.htm</loc>
+  <priority>0.6</priority>
+  <lastmod>2008-04-16T08:58:53+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.hooklure.com/contact.htm</loc>
+  <priority>0.5</priority>
+  <lastmod>2008-04-16T08:58:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
